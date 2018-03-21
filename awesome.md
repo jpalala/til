@@ -1,12 +1,18 @@
 # Awesome list
 
-## PHP-based Static Blogs 
+## PHP-based Static-site Generators 
 
 [PHP Blog with Heroku Buildpack](https://github.com/jamesward/heroku-buildpack-markdown)
 
 [Nesbot source: Static Site based on Slim](https://github.com/briannesbitt/nesbot.com)
 
 [Puny](https://github.com/stojg/puny)
+
+## Laravel Based Static-site Generators
+
+[Jigsaw](http://jigsaw.tighten.co/)
+
+[Statamic](https://statamic.com/)
 
 ## PHP useful libraries and tools
 
