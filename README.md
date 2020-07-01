@@ -21,9 +21,9 @@ Read [Lightweight Docker images with Alpine](https://weeraman.com/lightweight-do
 
 [Async with Angular](https://github.com/ultrasonicsoft/ng-async-await-demo)
 
-Added Conventional commit structure
+## Git
 
-[CONVENTIONALCOMMITS](conventionalcommits.md)
+[Conventional commits](CONVENTIONALCOMMITS.md)
 
 ## LICENSE
 
